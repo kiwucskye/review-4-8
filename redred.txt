@@ -1,1 +1,1 @@
-apple, cherry, strawberry
+apple, cherry, strawberry. watermelon, plum
